@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.69487ab3.css",
-    "main.js": "/portfolio/static/js/main.874ab889.js",
-    "static/media/profilepic.svg": "/portfolio/static/media/profilepic.c06ae00c4ac410a7f9a0e97cd56cb460.svg",
+    "main.css": "/portfolio/static/css/main.ad5ce588.css",
+    "main.js": "/portfolio/static/js/main.ef6aade1.js",
+    "static/media/profilepic.svg": "/portfolio/static/media/profilepic.a8943efc6b3281b98e9c638a7fefb1ba.svg",
     "static/media/loginprofile.svg": "/portfolio/static/media/loginprofile.92060b55dd4bcddf358f346dcc46ab54.svg",
     "static/media/Pretendard-Thin.ttf": "/portfolio/static/media/Pretendard-Thin.7aca4915b135693704c6.ttf",
     "static/media/Pretendard-ExtraLight.ttf": "/portfolio/static/media/Pretendard-ExtraLight.50a2b2a1b0307c05712d.ttf",
@@ -42,24 +42,24 @@
     "static/media/ProjectIcon.svg": "/portfolio/static/media/ProjectIcon.f966a794ebd36d38a2b597cca119dbc4.svg",
     "static/media/html.svg": "/portfolio/static/media/html.34afe8a46bb0c42c70702a0c97042bc3.svg",
     "static/media/angular.svg": "/portfolio/static/media/angular.11e367dbe02b7bac720582cae25b6fbd.svg",
+    "static/media/nonelevel.svg": "/portfolio/static/media/nonelevel.dac83e9ac51f13874be9e4e265078667.svg",
+    "static/media/javaLevel.svg": "/portfolio/static/media/javaLevel.51ecdd20778b0b0554315c37ab078a19.svg",
+    "static/media/reactLevel.svg": "/portfolio/static/media/reactLevel.51ecdd20778b0b0554315c37ab078a19.svg",
+    "static/media/cLevel.svg": "/portfolio/static/media/cLevel.7c248fef246a976fff98e772551cdcb4.svg",
+    "static/media/flutterLevel.svg": "/portfolio/static/media/flutterLevel.7c248fef246a976fff98e772551cdcb4.svg",
+    "static/media/htmlLevel.svg": "/portfolio/static/media/htmlLevel.1de26ca94ac10be0a22022cf907d54d7.svg",
+    "static/media/pythonLevel.svg": "/portfolio/static/media/pythonLevel.1de26ca94ac10be0a22022cf907d54d7.svg",
+    "static/media/gitLevel.svg": "/portfolio/static/media/gitLevel.45ffe799ca3e683ce8cbbf3a5ab0cb7a.svg",
+    "static/media/figmaLevel.svg": "/portfolio/static/media/figmaLevel.b46700b30756238ee1d166b341a1674a.svg",
     "index.html": "/portfolio/index.html",
     "static/media/vue.svg": "/portfolio/static/media/vue.b785a87b8bdd9a325be3a29d80fd4d21.svg",
-    "static/media/cLevel.svg": "/portfolio/static/media/cLevel.0f90967f2f59451d8dd41d69026132fc.svg",
-    "static/media/figmaLevel.svg": "/portfolio/static/media/figmaLevel.eb8234b1a856965595f094add2050ff2.svg",
-    "static/media/flutterLevel.svg": "/portfolio/static/media/flutterLevel.0f90967f2f59451d8dd41d69026132fc.svg",
-    "static/media/gitLevel.svg": "/portfolio/static/media/gitLevel.eccb7e524f48a70fc2376d15553032bc.svg",
-    "static/media/htmlLevel.svg": "/portfolio/static/media/htmlLevel.5205aa796b716730ef07b8aad8119dd4.svg",
-    "static/media/javaLevel.svg": "/portfolio/static/media/javaLevel.08c08a84d3385adc903283f538341f60.svg",
-    "static/media/nonelevel.svg": "/portfolio/static/media/nonelevel.a35e4462a92a004256b722f334ccc6e1.svg",
-    "static/media/notionLevel.svg": "/portfolio/static/media/notionLevel.5ff9195fb9d7f8e6ad6820eb5b26cdf4.svg",
-    "static/media/pythonLevel.svg": "/portfolio/static/media/pythonLevel.5205aa796b716730ef07b8aad8119dd4.svg",
-    "static/media/reactLevel.svg": "/portfolio/static/media/reactLevel.08c08a84d3385adc903283f538341f60.svg",
+    "static/media/notionLevel.svg": "/portfolio/static/media/notionLevel.74184c920517bb3bc49dc768dbe4a6b2.svg",
     "static/media/kotlin.svg": "/portfolio/static/media/kotlin.3bc1ce5e8a1a0ee02cb1049045030f64.svg",
-    "main.69487ab3.css.map": "/portfolio/static/css/main.69487ab3.css.map",
-    "main.874ab889.js.map": "/portfolio/static/js/main.874ab889.js.map"
+    "main.ad5ce588.css.map": "/portfolio/static/css/main.ad5ce588.css.map",
+    "main.ef6aade1.js.map": "/portfolio/static/js/main.ef6aade1.js.map"
   },
   "entrypoints": [
-    "static/css/main.69487ab3.css",
-    "static/js/main.874ab889.js"
+    "static/css/main.ad5ce588.css",
+    "static/js/main.ef6aade1.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b3a268f7.css",
-    "main.js": "/portfolio/static/js/main.58b96491.js",
+    "main.css": "/portfolio/static/css/main.684c8337.css",
+    "main.js": "/portfolio/static/js/main.aa556d03.js",
     "static/media/profilepic.svg": "/portfolio/static/media/profilepic.a8943efc6b3281b98e9c638a7fefb1ba.svg",
     "static/media/loginprofile.svg": "/portfolio/static/media/loginprofile.4200ba68e8d598ad9e16c2fcf7c45cda.svg",
     "static/media/Pretendard-Thin.ttf": "/portfolio/static/media/Pretendard-Thin.7aca4915b135693704c6.ttf",
@@ -42,24 +42,24 @@
     "static/media/ProjectIcon.svg": "/portfolio/static/media/ProjectIcon.5d6dd46e360befa2f7100d4674330358.svg",
     "static/media/html.svg": "/portfolio/static/media/html.34afe8a46bb0c42c70702a0c97042bc3.svg",
     "static/media/angular.svg": "/portfolio/static/media/angular.11e367dbe02b7bac720582cae25b6fbd.svg",
+    "static/media/nonelevel.svg": "/portfolio/static/media/nonelevel.4d5e995ffce1eaf0e5290dc47e447a21.svg",
+    "static/media/javaLevel.svg": "/portfolio/static/media/javaLevel.1ba389b409e125958da3656cc18a59de.svg",
+    "static/media/reactLevel.svg": "/portfolio/static/media/reactLevel.1ba389b409e125958da3656cc18a59de.svg",
+    "static/media/cLevel.svg": "/portfolio/static/media/cLevel.4295e90efbb3209dc513ae8e5726b5b7.svg",
+    "static/media/flutterLevel.svg": "/portfolio/static/media/flutterLevel.4295e90efbb3209dc513ae8e5726b5b7.svg",
+    "static/media/htmlLevel.svg": "/portfolio/static/media/htmlLevel.8803ae80608b4a5951838c3aa8d315b8.svg",
+    "static/media/pythonLevel.svg": "/portfolio/static/media/pythonLevel.8803ae80608b4a5951838c3aa8d315b8.svg",
+    "static/media/gitLevel.svg": "/portfolio/static/media/gitLevel.81e0bd3bd5a2d3298365ff516475a5d9.svg",
+    "static/media/figmaLevel.svg": "/portfolio/static/media/figmaLevel.75c900419decbcf985ad3ef6afb9f40e.svg",
+    "static/media/notionLevel.svg": "/portfolio/static/media/notionLevel.e9509c579d630d64b0e39caae06fa8d6.svg",
     "index.html": "/portfolio/index.html",
-    "static/media/cLevel.svg": "/portfolio/static/media/cLevel.2f77e29fdaab1ba6b3456933642d544c.svg",
-    "static/media/figmaLevel.svg": "/portfolio/static/media/figmaLevel.084333c227e7bdaa9da49545bc0efe42.svg",
-    "static/media/flutterLevel.svg": "/portfolio/static/media/flutterLevel.2f77e29fdaab1ba6b3456933642d544c.svg",
-    "static/media/gitLevel.svg": "/portfolio/static/media/gitLevel.0c69f6b9727ba93b9d4f3492e3886423.svg",
-    "static/media/htmlLevel.svg": "/portfolio/static/media/htmlLevel.3fb7987b7f9289c56bf9e050e42f6235.svg",
-    "static/media/javaLevel.svg": "/portfolio/static/media/javaLevel.f287ad7cdb4cbb02118b6ae9ba151912.svg",
-    "static/media/nonelevel.svg": "/portfolio/static/media/nonelevel.f51cd3aadb44e982b1c251579c268b5d.svg",
-    "static/media/notionLevel.svg": "/portfolio/static/media/notionLevel.be4c957bf8d1fabbdae1607d648e9bb0.svg",
-    "static/media/pythonLevel.svg": "/portfolio/static/media/pythonLevel.3fb7987b7f9289c56bf9e050e42f6235.svg",
-    "static/media/reactLevel.svg": "/portfolio/static/media/reactLevel.f287ad7cdb4cbb02118b6ae9ba151912.svg",
     "static/media/vue.svg": "/portfolio/static/media/vue.b785a87b8bdd9a325be3a29d80fd4d21.svg",
     "static/media/kotlin.svg": "/portfolio/static/media/kotlin.3bc1ce5e8a1a0ee02cb1049045030f64.svg",
-    "main.b3a268f7.css.map": "/portfolio/static/css/main.b3a268f7.css.map",
-    "main.58b96491.js.map": "/portfolio/static/js/main.58b96491.js.map"
+    "main.684c8337.css.map": "/portfolio/static/css/main.684c8337.css.map",
+    "main.aa556d03.js.map": "/portfolio/static/js/main.aa556d03.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3a268f7.css",
-    "static/js/main.58b96491.js"
+    "static/css/main.684c8337.css",
+    "static/js/main.aa556d03.js"
   ]
 }

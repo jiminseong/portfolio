@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a61b85b8.css",
-    "main.js": "/portfolio/static/js/main.b9cb2f85.js",
+    "main.css": "/portfolio/static/css/main.33f58234.css",
+    "main.js": "/portfolio/static/js/main.28101f6f.js",
     "static/media/profilepic.svg": "/portfolio/static/media/profilepic.a8943efc6b3281b98e9c638a7fefb1ba.svg",
-    "static/media/loginprofile.svg": "/portfolio/static/media/loginprofile.92060b55dd4bcddf358f346dcc46ab54.svg",
+    "static/media/loginprofile.svg": "/portfolio/static/media/loginprofile.4200ba68e8d598ad9e16c2fcf7c45cda.svg",
     "static/media/Pretendard-Thin.ttf": "/portfolio/static/media/Pretendard-Thin.7aca4915b135693704c6.ttf",
     "static/media/Pretendard-ExtraLight.ttf": "/portfolio/static/media/Pretendard-ExtraLight.50a2b2a1b0307c05712d.ttf",
     "static/media/Pretendard-Light.ttf": "/portfolio/static/media/Pretendard-Light.3711e13d79704d388100.ttf",
@@ -55,11 +55,11 @@
     "static/media/reactLevel.svg": "/portfolio/static/media/reactLevel.f287ad7cdb4cbb02118b6ae9ba151912.svg",
     "static/media/vue.svg": "/portfolio/static/media/vue.b785a87b8bdd9a325be3a29d80fd4d21.svg",
     "static/media/kotlin.svg": "/portfolio/static/media/kotlin.3bc1ce5e8a1a0ee02cb1049045030f64.svg",
-    "main.a61b85b8.css.map": "/portfolio/static/css/main.a61b85b8.css.map",
-    "main.b9cb2f85.js.map": "/portfolio/static/js/main.b9cb2f85.js.map"
+    "main.33f58234.css.map": "/portfolio/static/css/main.33f58234.css.map",
+    "main.28101f6f.js.map": "/portfolio/static/js/main.28101f6f.js.map"
   },
   "entrypoints": [
-    "static/css/main.a61b85b8.css",
-    "static/js/main.b9cb2f85.js"
+    "static/css/main.33f58234.css",
+    "static/js/main.28101f6f.js"
   ]
 }

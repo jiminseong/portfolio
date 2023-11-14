@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.82936c47.css",
-    "main.js": "/portfolio/static/js/main.ef6aade1.js",
+    "main.css": "/portfolio/static/css/main.5198b35f.css",
+    "main.js": "/portfolio/static/js/main.c4b5ae86.js",
     "static/media/profilepic.svg": "/portfolio/static/media/profilepic.a8943efc6b3281b98e9c638a7fefb1ba.svg",
     "static/media/loginprofile.svg": "/portfolio/static/media/loginprofile.92060b55dd4bcddf358f346dcc46ab54.svg",
     "static/media/Pretendard-Thin.ttf": "/portfolio/static/media/Pretendard-Thin.7aca4915b135693704c6.ttf",
@@ -28,18 +28,18 @@
     "static/media/c.svg": "/portfolio/static/media/c.bdfb624025806d862f0138b36be0411a.svg",
     "static/media/slack.svg": "/portfolio/static/media/slack.66e086c4ef90a8d182486f8ae10d39bb.svg",
     "static/media/react.svg": "/portfolio/static/media/react.746e472fc5b46bc96e360d178e524ac0.svg",
-    "static/media/ContestIcon.svg": "/portfolio/static/media/ContestIcon.1b4312913f3336de7b858e2c11c76d80.svg",
+    "static/media/ContestIcon.svg": "/portfolio/static/media/ContestIcon.322791d7768bf3cecb96a0b6ac052df0.svg",
     "static/media/jira.svg": "/portfolio/static/media/jira.902ed48302435ee7f54f58990d4ff3ef.svg",
     "static/media/swift.svg": "/portfolio/static/media/swift.5d7994b050e1ee919958688733e44bfd.svg",
-    "static/media/GithubIcon.svg": "/portfolio/static/media/GithubIcon.b51285f83858f5bf1b8d6aa6eaf444fe.svg",
-    "static/media/SkillIcon.svg": "/portfolio/static/media/SkillIcon.8354b6879937823b889920f037b53b2d.svg",
+    "static/media/GithubIcon.svg": "/portfolio/static/media/GithubIcon.c5f771d02eedb6b620cc1a02ffce3405.svg",
+    "static/media/SkillIcon.svg": "/portfolio/static/media/SkillIcon.e3965fa94854f83bf03397640576b00a.svg",
     "static/media/figma.svg": "/portfolio/static/media/figma.c7b18933fd0cd73f09d90a6c76cc12f5.svg",
     "static/media/git.svg": "/portfolio/static/media/git.c055c30d98ffdef5d55c52b9dc883901.svg",
     "static/media/flutter.svg": "/portfolio/static/media/flutter.ba150b53c5c6bb3d9f3c49f5ed865462.svg",
-    "static/media/UserIcon.svg": "/portfolio/static/media/UserIcon.c7eada6a3d1fb614bed3bc54ccff4a95.svg",
-    "static/media/HomeIcon.svg": "/portfolio/static/media/HomeIcon.4dd1a1c9ef131dfe446dc1e264d72531.svg",
-    "static/media/VelogIcon.svg": "/portfolio/static/media/VelogIcon.499adcf4485ea94499eeac0ac1463d39.svg",
-    "static/media/ProjectIcon.svg": "/portfolio/static/media/ProjectIcon.f966a794ebd36d38a2b597cca119dbc4.svg",
+    "static/media/UserIcon.svg": "/portfolio/static/media/UserIcon.01d3edfaa863d64aaf45e8f6d11cfd0b.svg",
+    "static/media/HomeIcon.svg": "/portfolio/static/media/HomeIcon.6f34a7fe23441940014b3f4cf86015a1.svg",
+    "static/media/VelogIcon.svg": "/portfolio/static/media/VelogIcon.1702bfdffcb48e801b445c19da4e37c9.svg",
+    "static/media/ProjectIcon.svg": "/portfolio/static/media/ProjectIcon.5d6dd46e360befa2f7100d4674330358.svg",
     "static/media/html.svg": "/portfolio/static/media/html.34afe8a46bb0c42c70702a0c97042bc3.svg",
     "static/media/angular.svg": "/portfolio/static/media/angular.11e367dbe02b7bac720582cae25b6fbd.svg",
     "static/media/nonelevel.svg": "/portfolio/static/media/nonelevel.dac83e9ac51f13874be9e4e265078667.svg",
@@ -55,11 +55,11 @@
     "static/media/vue.svg": "/portfolio/static/media/vue.b785a87b8bdd9a325be3a29d80fd4d21.svg",
     "static/media/notionLevel.svg": "/portfolio/static/media/notionLevel.74184c920517bb3bc49dc768dbe4a6b2.svg",
     "static/media/kotlin.svg": "/portfolio/static/media/kotlin.3bc1ce5e8a1a0ee02cb1049045030f64.svg",
-    "main.82936c47.css.map": "/portfolio/static/css/main.82936c47.css.map",
-    "main.ef6aade1.js.map": "/portfolio/static/js/main.ef6aade1.js.map"
+    "main.5198b35f.css.map": "/portfolio/static/css/main.5198b35f.css.map",
+    "main.c4b5ae86.js.map": "/portfolio/static/js/main.c4b5ae86.js.map"
   },
   "entrypoints": [
-    "static/css/main.82936c47.css",
-    "static/js/main.ef6aade1.js"
+    "static/css/main.5198b35f.css",
+    "static/js/main.c4b5ae86.js"
   ]
 }

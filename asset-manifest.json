@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.40ece2d1.css",
-    "main.js": "/portfolio/static/js/main.1a0484d6.js",
+    "main.js": "/portfolio/static/js/main.68217acd.js",
     "static/media/profilepic.svg": "/portfolio/static/media/profilepic.a8943efc6b3281b98e9c638a7fefb1ba.svg",
     "static/media/loginprofile.svg": "/portfolio/static/media/loginprofile.4200ba68e8d598ad9e16c2fcf7c45cda.svg",
     "static/media/founded2023-2detail.png": "/portfolio/static/media/founded2023-2detail.81444bd704e4b980d4b4.png",
@@ -25,7 +25,6 @@
     "static/media/founded2023-1.png": "/portfolio/static/media/founded2023-1.f5228880eb7d443672ff.png",
     "static/media/simpandadetail.png": "/portfolio/static/media/simpandadetail.bb6b643a540919ac27ed.png",
     "static/media/founded2023-2.png": "/portfolio/static/media/founded2023-2.0f23f592057dc1ef3622.png",
-    "static/media/major2023-2.png": "/portfolio/static/media/major2023-2.fa677754b10970580af2.png",
     "static/media/sajimang.png": "/portfolio/static/media/sajimang.fb380a6d63d07f2108d8.png",
     "static/media/capybara.png": "/portfolio/static/media/capybara.5dad5620faf94298c2ee.png",
     "static/media/clock.png": "/portfolio/static/media/clock.02f70d92515d9549f63b.png",
@@ -65,10 +64,10 @@
     "static/media/kotlin.svg": "/portfolio/static/media/kotlin.3bc1ce5e8a1a0ee02cb1049045030f64.svg",
     "static/media/ReturnIcon.svg": "/portfolio/static/media/ReturnIcon.6d882e114208373e653369e512e4c3ad.svg",
     "main.40ece2d1.css.map": "/portfolio/static/css/main.40ece2d1.css.map",
-    "main.1a0484d6.js.map": "/portfolio/static/js/main.1a0484d6.js.map"
+    "main.68217acd.js.map": "/portfolio/static/js/main.68217acd.js.map"
   },
   "entrypoints": [
     "static/css/main.40ece2d1.css",
-    "static/js/main.1a0484d6.js"
+    "static/js/main.68217acd.js"
   ]
 }
